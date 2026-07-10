@@ -30,7 +30,8 @@ This is a curated collection of community-built frameworks and resources that si
 * **[AgentR Universal MCP SDK](https://github.com/universal-mcp/universal-mcp)** - A python SDK to build MCP Servers with inbuilt credential management by **[Agentr](https://agentr.dev/home)**
 * **[Vercel MCP Adapter](https://github.com/vercel/mcp-adapter)** (TypeScript) - A simple package to start serving an MCP server on most major JS meta-frameworks including Next, Nuxt, Svelte, and more.
 * **[PHP MCP Server](https://github.com/php-mcp/server)** (PHP) - Core PHP implementation for the Model Context Protocol (MCP) server
-
+* **[x402-facilitator-proxy](https://github.com/seob5285-alt/x402-facilitator-proxy)** (TypeScript) - Open, multi-tenant HTTP 402 infrastructure gateway and stdio MCP server for x402-powered machine payments. Features automated programmatic platform splits, an Express.js middleware gate, and buyer-agent templates for LangChain (TS) and CrewAI (Python) to execute USDC micropayments on Base L2. No signup required.
+*
 ### For clients
 
 * **[codemirror-mcp](https://github.com/marimo-team/codemirror-mcp)** - CodeMirror extension that implements the Model Context Protocol (MCP) for resource mentions and prompt commands
